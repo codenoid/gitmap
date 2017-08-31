@@ -94,7 +94,7 @@ Other stuff like social media, data, etc
  * [Stara](https://www.youtube.com/watch?v=0mZqkpbAcC0) - Stara repo example
  * [Finch](https://www.youtube.com/watch?v=eMJcoqV54Vc) - Fich repo example
  * [Django, VENV, PIP, Ubuntu](https://www.youtube.com/watch?v=58LWRKmF60U&t=1192s) - Learn py, ubuntu
- * [Instagram From Scratch](https://www.youtube.com/watch?v=zH4ReYIjvvY) - *unfinished?*
+ * [Instagram From Scratch](https://www.youtube.com/watch?v=zH4ReYIjvvY) - *unfinished*
  
 ## Website
  * [Jihantoro.net](http://jihantoro.net) - Jihantoro.sd repo
