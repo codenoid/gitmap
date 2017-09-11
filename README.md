@@ -46,6 +46,10 @@ Hello my name is Rubi, I learned the first programming language since January 20
  * [Jihantoro.cr](https://github.com/codenoid/jihantoro.cr) - Super simple blog, written in Crystal
  * [Jihantoro.sd](https://github.com/codenoid/jihantoro.sd) - Crystal version of Serdar Dogruyol Blog
  * [Kemal MySQL Blog](https://github.com/codenoid/kemal-mysql-blog) - simple blog written with Kemal Framework
+ * [Long Polling Telebot](https://github.com/codenoid/Long-Polling-Telebot) - Example of Long Polling Connection Written in Crystal 🤖 "beep boop" 
+ * [Telegram Bot Boilerplate](https://github.com/codenoid/Telegram-Bot-Boilerplate) - Telegram Bot Boilerplate Written in Crystal 
+ * [Memebot CR](https://github.com/codenoid/Memebot.cr) - @idmemebot on telegram
+ * [Memecomic.id Scrapper](https://github.com/codenoid/Memecomicid-scrapper) - Memecomic.id Scrapper
  
  
 ## JavaScript
