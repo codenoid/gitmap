@@ -56,7 +56,7 @@ Hello my name is Rubi, I learned the first programming language since January 20
  * [Hope Dashboard Template](https://github.com/codenoid/hope-dashboard-template) - Smart Dashboard Template for Dev
  * [Wappalyzer](https://github.com/codenoid/Wappalyzer) - Cross-platform utility that uncovers the technologies used on websites. *Contributors*
  * [Nyemod](https://github.com/codenoid/Nyemod) - Ads Guard for invalid & Boom clicks
- * [Kulgram HDS](https://github.com/codenoid/KulGram-HDS) - PHP Indonesia *KulGram*, about HTML Data Storing
+ * [Kulgram HDS](https://github.com/codenoid/KulGram-HDS) - PHP Indonesia & Laravel Indonesia *KulGram*, about HTML Data Storing
  * [Online Toilet](https://github.com/codenoid/online-toilet) - Full
  * [Dev Todo List](https://github.com/OpenSourceID/dev-todolist/) - Moon JS, Axios, Kemal, Crystal, Mongo DB, Vanilla CSS
  
