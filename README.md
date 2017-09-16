@@ -101,6 +101,12 @@ Other stuff like social media, data, etc
  * [Django, VENV, PIP, Ubuntu](https://www.youtube.com/watch?v=58LWRKmF60U&t=1192s) - Learn py, ubuntu
  * [Instagram From Scratch](https://www.youtube.com/watch?v=zH4ReYIjvvY) - *unfinished*
  
+## Telegram Group
+ * [Scrape ID](https://t.me/ScrapeID) - Indonesian Scrapper Forum
+ * [Crystal ID](https://t.me/CrystalID) - Crystal User Group Indonesia
+ * [Machine Learning Indonesia](https://t.me/ML_ID) - Indonesian Machine Learning forum
+ * [OpenSourceID](https://t.me/OpenSourceID) - github/OpenSourceID Group
+ 
 ## Website
  * [Jihantoro.net](http://jihantoro.net) - Jihantoro.sd repo
 
