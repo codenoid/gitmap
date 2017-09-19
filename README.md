@@ -88,9 +88,9 @@ Other stuff like social media, data, etc
  
 
 ## Videos
+ * [GOJEK-LIKE Barbershop App](https://www.youtube.com/watch?v=P6WobgOwFio) - Crystal, GMAPS, JavaScript, WS
  * [Crystal Redis](https://www.youtube.com/watch?v=cSkRdfPA--I) - Example of Redis usage in Crystal
  * [Crystal MongoDB](https://www.youtube.com/watch?v=EXTYDlBdLUA&t=4s) - Example of Mongo.cr Usage in Crystal
- * [GOJEK-LIKE Barbershop App](https://www.youtube.com/watch?v=P6WobgOwFio) - Crystal, GMAPS, JavaScript, WS
  * [Crystal MySQL CRUD](https://www.youtube.com/watch?v=KowBrl_i2EU) - Crystal-mysql usage for CRUD
  * [Crystal MySQL From Scratch](https://www.youtube.com/watch?v=Ihr6Xw-hiHE&t=5s) - Crystal-mysql from Scratch
  * [Blog With PHP](https://www.youtube.com/watch?v=FBb0981NNWw&t=54s) - PHP Blog
@@ -116,6 +116,3 @@ Other stuff like social media, data, etc
  * [Twitter](https://twitter.com/codenoid) - Official
  * [Fans Page](https://www.facebook.com/codingwithrubi/) - Official Fans Page
  * [Gitter](https://gitter.im/codenoid) - Official
- 
-
- 
