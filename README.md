@@ -33,6 +33,7 @@ Hello my name is Rubi, I learned the first programming language since January 20
  * [Ciayo Comics Wordpress Theme](https://github.com/codenoid/Ciayo-Comics-Wordpress-Version) - Full
  
 ## Crystal
+ * [Crystal Programming Language](https://github.com/crystal-lang/crystal) - Local Editor & *contributor*
  * [Wanita Compiler](https://github.com/codenoid/wanita-compiler) - Compile women "language"
  * [Awesome Crystal](https://github.com/codenoid/awesome-crystal) - Awesome Crystal lib & example list *Contributors*
  * [Crystal MySQL CRUD Example](https://github.com/codenoid/crystal-mysql-crud-example) - Full
