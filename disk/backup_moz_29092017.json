@@ -1,0 +1,2305 @@
+{
+  "guid": "root________",
+  "title": "",
+  "index": 0,
+  "dateAdded": 1503627549669000,
+  "lastModified": 1503991851381000,
+  "id": 1,
+  "type": "text/x-moz-place-container",
+  "root": "placesRoot",
+  "children": [
+    {
+      "guid": "menu________",
+      "title": "Bookmarks Menu",
+      "index": 0,
+      "dateAdded": 1503627549669000,
+      "lastModified": 1506323919868000,
+      "id": 2,
+      "type": "text/x-moz-place-container",
+      "root": "bookmarksMenuFolder",
+      "children": [
+        {
+          "guid": "cWVOPm0FLwIy",
+          "title": "Recent Tags",
+          "index": 0,
+          "dateAdded": 1503627550176000,
+          "lastModified": 1503627550193000,
+          "id": 14,
+          "annos": [
+            {
+              "name": "Places/SmartBookmark",
+              "flags": 0,
+              "expires": 4,
+              "value": "RecentTags"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "place:type=6&sort=14&maxResults=10"
+        },
+        {
+          "guid": "VzAqjkDrhshf",
+          "index": 1,
+          "dateAdded": 1503627550196000,
+          "lastModified": 1503627550196000,
+          "id": 15,
+          "type": "text/x-moz-place-separator"
+        },
+        {
+          "guid": "ZUThJsJ8fc9i",
+          "title": "Mozilla Firefox",
+          "index": 2,
+          "dateAdded": 1503627549967000,
+          "lastModified": 1503627549976000,
+          "id": 8,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "Dv-rAkBNruXU",
+              "title": "Help and Tutorials",
+              "index": 0,
+              "dateAdded": 1503627549969000,
+              "lastModified": 1503627549970000,
+              "id": 9,
+              "iconuri": "http://www.mozilla.org/2005/made-up-favicon/1-1503627549969",
+              "type": "text/x-moz-place",
+              "uri": "https://support.mozilla.org/en-US/products/firefox"
+            },
+            {
+              "guid": "riXy7-tkmOwT",
+              "title": "Customize Firefox",
+              "index": 1,
+              "dateAdded": 1503627549971000,
+              "lastModified": 1503627549972000,
+              "id": 10,
+              "iconuri": "http://www.mozilla.org/2005/made-up-favicon/2-1503627549971",
+              "type": "text/x-moz-place",
+              "uri": "https://www.mozilla.org/en-US/firefox/customize/"
+            },
+            {
+              "guid": "j5t5UwRs5lgB",
+              "title": "Get Involved",
+              "index": 2,
+              "dateAdded": 1503627549973000,
+              "lastModified": 1503627549974000,
+              "id": 11,
+              "iconuri": "http://www.mozilla.org/2005/made-up-favicon/3-1503627549974",
+              "type": "text/x-moz-place",
+              "uri": "https://www.mozilla.org/en-US/contribute/"
+            },
+            {
+              "guid": "K1_oxFxq6yk9",
+              "title": "About Us",
+              "index": 3,
+              "dateAdded": 1503627549976000,
+              "lastModified": 1503627549977000,
+              "id": 12,
+              "iconuri": "http://www.mozilla.org/2005/made-up-favicon/4-1503627549976",
+              "type": "text/x-moz-place",
+              "uri": "https://www.mozilla.org/en-US/about/"
+            }
+          ]
+        },
+        {
+          "guid": "3xnTbEMJMbof",
+          "title": "cargo_shorts/cargo_shorts.service at master · Fryguy/cargo_shorts",
+          "index": 3,
+          "dateAdded": 1503669715859000,
+          "lastModified": 1503669715862000,
+          "id": 29,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "cargo_shorts - CargoShorts is a simple set of tools that allow you to create a basic room system for BlueJeans"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/Fryguy/cargo_shorts/blob/master/system/lib/systemd/system/cargo_shorts.service"
+        },
+        {
+          "guid": "m1MJSXTiTc7c",
+          "title": "Install and config Redis on Mac OS X via Homebrew – Pete Houston – Medium",
+          "index": 4,
+          "dateAdded": 1503670061772000,
+          "lastModified": 1503670061780000,
+          "id": 30,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "By using Homebrew, you greatly reduce the cost of setting up and configuring the development environment on Mac OS X. After installation, you will see some notification about some caveats on…"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://medium.com/@petehouston/install-and-config-redis-on-mac-os-x-via-homebrew-eb8df9a4f298"
+        },
+        {
+          "guid": "0EZOWXrBLKb5",
+          "title": "Why a GPU mines faster than a CPU - Bitcoin Wiki",
+          "index": 5,
+          "dateAdded": 1503739542166000,
+          "lastModified": 1503739542169000,
+          "id": 31,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://en.bitcoin.it/wiki/Why_a_GPU_mines_faster_than_a_CPU"
+        },
+        {
+          "guid": "14NcX5GUV93Q",
+          "title": "tmux Tutorial - Split Terminal Windows Easily",
+          "index": 6,
+          "dateAdded": 1503816806814000,
+          "lastModified": 1503816806822000,
+          "id": 32,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://lukaszwrobel.pl/blog/tmux-tutorial-split-terminal-windows-easily"
+        },
+        {
+          "guid": "CvhQRuu0yHBY",
+          "title": "User Manual · yegappan/mru Wiki",
+          "index": 7,
+          "dateAdded": 1503821016398000,
+          "lastModified": 1503821016400000,
+          "id": 33,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "mru - Most Recently Used (MRU) Vim Plugin"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/yegappan/mru/wiki/User-Manual"
+        },
+        {
+          "guid": "lZKD5pHn85EI",
+          "title": "amix/vimrc: The ultimate Vim configuration: vimrc",
+          "index": 8,
+          "dateAdded": 1503823909371000,
+          "lastModified": 1503823909374000,
+          "id": 34,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "The ultimate Vim configuration: vimrc"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/amix/vimrc"
+        },
+        {
+          "guid": "kAueJvWuz3yf",
+          "title": "Tutorial — MongoDB C Driver 1.7.0",
+          "index": 9,
+          "dateAdded": 1503824972531000,
+          "lastModified": 1503824972533000,
+          "id": 35,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://mongoc.org/libmongoc/current/tutorial.html"
+        },
+        {
+          "guid": "vpfcbPFg6x9R",
+          "title": "Run #2lmb | Compile & run code in Crystal",
+          "index": 10,
+          "dateAdded": 1503832973758000,
+          "lastModified": 1503832973761000,
+          "id": 36,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://carc.in/#/r/2lmb"
+        },
+        {
+          "guid": "tRAjo4LOi_Xw",
+          "title": "Issues · crystal-lang/crystal",
+          "index": 11,
+          "dateAdded": 1503852973717000,
+          "lastModified": 1503852973764000,
+          "id": 37,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "crystal - The Crystal Programming Language"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/crystal-lang/crystal/issues/4869"
+        },
+        {
+          "guid": "WGynFPCI_-qE",
+          "title": "linux - VIM: how to go to exact line on Ubuntu - Stack Overflow",
+          "index": 12,
+          "dateAdded": 1503905182889000,
+          "lastModified": 1503905182892000,
+          "id": 38,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://stackoverflow.com/questions/6380635/vim-how-to-go-to-exact-line-on-ubuntu"
+        },
+        {
+          "guid": "luNu-yMbkZMV",
+          "title": "Antelope Love Fan",
+          "index": 13,
+          "dateAdded": 1503905604922000,
+          "lastModified": 1503905604926000,
+          "id": 39,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://mark.biek.org/blog/"
+        },
+        {
+          "guid": "nB3lLUVtjAxv",
+          "title": "db.collection.update() — MongoDB Manual 3.4",
+          "index": 14,
+          "dateAdded": 1504097768841000,
+          "lastModified": 1504097768845000,
+          "id": 48,
+          "charset": "UTF-8",
+          "iconuri": "https://media.mongodb.org/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://docs.mongodb.com/manual/reference/method/db.collection.update/"
+        },
+        {
+          "guid": "PBpGxKXjzsnx",
+          "title": "Jual Beli Ps4 Sony Cuci Gudang + Hdd 500gb + 1 Stick Ori | Bukalapak",
+          "index": 15,
+          "dateAdded": 1504098156429000,
+          "lastModified": 1504098156449000,
+          "id": 49,
+          "charset": "UTF-8",
+          "iconuri": "https://s1.bukalapak.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Jual beli Ps4 Sony Cuci Gudang + Hdd 500gb + 1 Stick Ori Mesin Warlles di Lapak Hengky Cong - hengky_cong. Menjual Console - welcom toko Bintang Games Kami ..."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.bukalapak.com/p/hobi-koleksi/video-game/console/n5grf-jual-ps4-sony-cuci-gudang-hdd-500gb-1-stick-ori-mesin-warlles?from=old-popular-section-2"
+        },
+        {
+          "guid": "2Ad3_fqcZucn",
+          "title": "Jual Beli Metode Rubaiyat, Cara Mudah Belajar | Bukalapak",
+          "index": 16,
+          "dateAdded": 1504098186955000,
+          "lastModified": 1504098186956000,
+          "id": 50,
+          "charset": "UTF-8",
+          "iconuri": "https://s1.bukalapak.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Jual beli Metode Rubaiyat, Cara Mudah Belajar Al-Qur'an, 4 jam bisa baca Al-Quran di Lapak Hafidzah Store - fasihbacaquran. Menjual Agama & Kepercayaan"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.bukalapak.com/p/hobi-koleksi/buku/agama-kepercayaan/1476rr-jual-metode-rubaiyat-cara-mudah-belajar-al-qur-an-4-jam-bisa-baca-al-quran?from=old-popular-section-3"
+        },
+        {
+          "guid": "lx-DnRwNxtsY",
+          "title": "Jual Beli iphone 5 32GB (NEW GARANSI 1 TAHUN) PROMO Baru | Bukalapak",
+          "index": 17,
+          "dateAdded": 1504098189294000,
+          "lastModified": 1504098189305000,
+          "id": 51,
+          "charset": "UTF-8",
+          "iconuri": "https://s1.bukalapak.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Jual beli iphone 5 32GB (NEW GARANSI 1 TAHUN) PROMO di Lapak Hendrybenardy - hendrybenardy_hendrybenardy. Menjual HP & Smartphone - garansi resmi 1 tahun..."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.bukalapak.com/p/handphone/hp-smartphone/10s6l3-jual-iphone-5-32gb-new-garansi-1-tahun-promo?from=old-popular-section-3"
+        },
+        {
+          "guid": "iDiqC5K0Hlt_",
+          "title": "BetterTouchTool Pre-Alpha with Touch Bar support – BetterTouchTool, BTT Remote, BetterSnapTool and more",
+          "index": 18,
+          "dateAdded": 1504099421704000,
+          "lastModified": 1504099421709000,
+          "id": 52,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.boastr.net/bettertouchtool-pre-alpha-with-touch-bar-support/"
+        },
+        {
+          "guid": "XXT5xCrUZcEQ",
+          "title": "rrrrr (red/rebol resources and rough reasonings)",
+          "index": 19,
+          "dateAdded": 1504101513754000,
+          "lastModified": 1504101513770000,
+          "id": 53,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://gist.github.com/9214/784e7f7af2342f117bc67a8e2698855b"
+        },
+        {
+          "guid": "zyKCoVTmpira",
+          "title": "Easy, proactive monitoring of processes, programs, files, directories, filesystems and hosts | Monit",
+          "index": 20,
+          "dateAdded": 1504104957648000,
+          "lastModified": 1504104957653000,
+          "id": 54,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://mmonit.com/monit/"
+        },
+        {
+          "guid": "fTGxh-g1u4L9",
+          "title": "Short Red Code Examples",
+          "index": 21,
+          "dateAdded": 1504107744380000,
+          "lastModified": 1504107744386000,
+          "id": 55,
+          "charset": "windows-1252",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://redprogramming.com/Short%20Red%20Code%20Examples.html"
+        },
+        {
+          "guid": "013Tw6mMzzqp",
+          "title": "http://re-bol.com/examples.txt",
+          "index": 22,
+          "dateAdded": 1504108245819000,
+          "lastModified": 1504108245823000,
+          "id": 56,
+          "charset": "windows-1252",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://re-bol.com/examples.txt"
+        },
+        {
+          "guid": "fCZlwHAbBPX6",
+          "title": "Your First Progressive Web App",
+          "index": 23,
+          "dateAdded": 1504145749686000,
+          "lastModified": 1504145749691000,
+          "id": 58,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html#0"
+        },
+        {
+          "guid": "tXgVEx3K13_9",
+          "title": "php - How to configure Codeigniter to report all errors? - Stack Overflow",
+          "index": 24,
+          "dateAdded": 1504149815119000,
+          "lastModified": 1504149815121000,
+          "id": 59,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://stackoverflow.com/questions/7370391/how-to-configure-codeigniter-to-report-all-errors"
+        },
+        {
+          "guid": "MHVtedT8ibzE",
+          "title": "How to convert a string or integer to binary in Ruby? - Stack Overflow",
+          "index": 25,
+          "dateAdded": 1504237850978000,
+          "lastModified": 1504237851017000,
+          "id": 60,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://stackoverflow.com/questions/2339695/how-to-convert-a-string-or-integer-to-binary-in-ruby"
+        },
+        {
+          "guid": "CY86mXehftAR",
+          "title": "Python:Ascii character<->decimal representation conversion - Stack Overflow",
+          "index": 26,
+          "dateAdded": 1504247249424000,
+          "lastModified": 1504247249435000,
+          "id": 61,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://stackoverflow.com/questions/4387138/pythonascii-character-decimal-representation-conversion"
+        },
+        {
+          "guid": "Sry7WDAImYtR",
+          "title": "Teknik Steganografi Menyisipkan File Ke Dalam File Image Atau Gambar | Hardilist",
+          "index": 27,
+          "dateAdded": 1504261460199000,
+          "lastModified": 1504261460201000,
+          "id": 62,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Nah udah tau kan apa itu Steganografi, sekarang saya akan membahas salah satu teknik Steganografi yaitu Teknik menyisipkan file ke dalam file image atau file gambar. Mungkin teknik ini merupakan teknik jadul tapi gak ada salah nya kalo saya bahas kembali untuk mengingatkan atau memberi tambahan ilmu untuk  sobat-sobat semua."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://hardilist.blogspot.co.id/2016/03/teknik-steganografi-menyisipkan-file-ke.html"
+        },
+        {
+          "guid": "H0fgsW1FBI2B",
+          "title": "Kita Sewa.com",
+          "index": 28,
+          "dateAdded": 1504262054009000,
+          "lastModified": 1504262054011000,
+          "id": 63,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://localhost:3000/"
+        },
+        {
+          "guid": "UkG1NHwiwDl0",
+          "title": "Crystal Language { dev.to(✌️) }",
+          "index": 29,
+          "dateAdded": 1504343795433000,
+          "lastModified": 1504343795437000,
+          "id": 64,
+          "charset": "UTF-8",
+          "iconuri": "https://practicaldev-herokuapp-com.freetls.fastly.net/assets/android-icon-128x128-8688e356c5db3b9d64b735c99cb9f4565ae3ff6e8ed3d7618c6e3e2cf14bdcc7.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Programming language. Fast as C, slick as Ruby."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://dev.to/crystal-lang"
+        },
+        {
+          "guid": "9_kuXMAyJMB2",
+          "title": "Free SMS Gratis Indonesia » Inbox SMS",
+          "index": 30,
+          "dateAdded": 1504367967731000,
+          "lastModified": 1504367967733000,
+          "id": 65,
+          "charset": "UTF-8",
+          "iconuri": "http://www.sms-online.web.id/wp-content/themes/gmail-press/images/favicon.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.sms-online.web.id/inbox?hp=085225233624"
+        },
+        {
+          "guid": "NEmxnW9CWPl1",
+          "title": "Kirim SMS Gratis ke Semua Operator Lewat Internet - Inbox - KuSMS.com",
+          "index": 31,
+          "dateAdded": 1504368030521000,
+          "lastModified": 1504368030523000,
+          "id": 66,
+          "charset": "UTF-8",
+          "iconuri": "http://www.kusms.com/images/phone.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Kirim SMS gratis ke semua operator GSM, CDMA se-Indonesia tanpa bayar lewat internet"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.kusms.com/index.php?do=inbox&pre_hp=85225233624"
+        },
+        {
+          "guid": "i2en6_Jm820w",
+          "title": "DevDocs — Crystal documentation",
+          "index": 32,
+          "dateAdded": 1504433031446000,
+          "lastModified": 1504433031448000,
+          "id": 67,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn.devdocs.io/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Crystal API documentation with instant search, offline mode, keyboard navigation, mobile version, and more."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://devdocs.io/crystal/"
+        },
+        {
+          "guid": "zmPK2BKFLsJc",
+          "title": "DevDocs API Documentation",
+          "index": 33,
+          "dateAdded": 1504438486839000,
+          "lastModified": 1504438486841000,
+          "id": 68,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn.devdocs.io/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "DevDocs is a fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://devdocs.io/"
+        },
+        {
+          "guid": "n_EtxvR46cYA",
+          "title": "habibimroncn/simple-ionic-crud-app: An Ionic project to make simple CRUD with SQLite",
+          "index": 34,
+          "dateAdded": 1504504820968000,
+          "lastModified": 1504504820981000,
+          "id": 69,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "simple-ionic-crud-app - An Ionic project to make simple CRUD with SQLite"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/habibimroncn/simple-ionic-crud-app"
+        },
+        {
+          "guid": "P6uaSGnoc2r2",
+          "title": "Mean, Median, Mode, and Range | Purplemath",
+          "index": 35,
+          "dateAdded": 1504510729957000,
+          "lastModified": 1504510730000000,
+          "id": 70,
+          "charset": "UTF-8",
+          "iconuri": "http://www.purplemath.com/modules/favicons/favicon.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Explains how to compute the mean, median, mode, and range of a list of numbers."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.purplemath.com/modules/meanmode.htm"
+        },
+        {
+          "guid": "-Zz1i372gwgE",
+          "title": "Train: Ones and Zeros | Codewars",
+          "index": 36,
+          "dateAdded": 1504520404071000,
+          "lastModified": 1504520404074000,
+          "id": 71,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.codewars.com/kata/ones-and-zeros/train/ruby"
+        },
+        {
+          "guid": "LTTdNs3A5S2x",
+          "title": "Train: Take a Ten Minute Walk | Codewars",
+          "index": 37,
+          "dateAdded": 1504531807922000,
+          "lastModified": 1504531807925000,
+          "id": 72,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.codewars.com/kata/take-a-ten-minute-walk/train/ruby"
+        },
+        {
+          "guid": "mQMeqpukQeck",
+          "title": "Paw – The most advanced API tool for Mac",
+          "index": 38,
+          "dateAdded": 1504581871361000,
+          "lastModified": 1504581871364000,
+          "id": 73,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn-static.paw.cloud/img/favicons/favicon-16x16-3c05774c30.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Paw is a full-featured and beautifully designed Mac app that makes interaction with REST services delightful.Whether you are an API maker or consumer, Paw helps you build HTTP requests, inspect the server's response and even generate client code."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://paw.cloud/"
+        },
+        {
+          "guid": "BjJoonN-GpN2",
+          "title": "mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know",
+          "index": 39,
+          "dateAdded": 1504603124471000,
+          "lastModified": 1504603124474000,
+          "id": 74,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "every-programmer-should-know - A collection of (mostly) technical things every software developer should know"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/mr-mig/every-programmer-should-know"
+        },
+        {
+          "guid": "NoNLt0tcPCUj",
+          "title": "jupeter/clean-code-php: Clean Code concepts adapted for PHP",
+          "index": 40,
+          "dateAdded": 1504614959187000,
+          "lastModified": 1504614959191000,
+          "id": 75,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "clean-code-php - :bathtub: Clean Code concepts adapted for PHP"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/jupeter/clean-code-php#table-of-contents"
+        },
+        {
+          "guid": "u-MsYpRXnOQb",
+          "title": "ama - { dev.to(✌️) }",
+          "index": 41,
+          "dateAdded": 1504624116576000,
+          "lastModified": 1504624116579000,
+          "id": 76,
+          "charset": "UTF-8",
+          "iconuri": "https://practicaldev-herokuapp-com.freetls.fastly.net/assets/android-icon-128x128-8688e356c5db3b9d64b735c99cb9f4565ae3ff6e8ed3d7618c6e3e2cf14bdcc7.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "ama content on dev.to"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://dev.to/t/ama"
+        },
+        {
+          "guid": "7eHkvzPjM9RX",
+          "title": "Google Kalender - Event Details",
+          "index": 42,
+          "dateAdded": 1504624254157000,
+          "lastModified": 1504624254158000,
+          "id": 77,
+          "charset": "UTF-8",
+          "iconuri": "https://calendar.google.com/googlecalendar/images/favicon_v2014_5.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20170906T180000Z/20170906T200000Z&text=Crystal+Lang+Team+AMA+on+dev.to&location=https://dev.to/t/ama&details=Don%27t+miss+the+Crystal+Lang+Team%27s+AMA+on+dev.to!++Head+to+https://dev.to/t/ama&pli=1&t=AKUaPmY7XEdmzSxv4z1ZTuIPEnyZ5ersZajBX42ix803Z5xB_x-Ymp2h_22EdDEXF_8asfaXAK1cPVVA9baLOFTz3OwvQWqW6Q%3D%3D&sf=true&output=xml#eventpage_6"
+        },
+        {
+          "guid": "EeOMLPFl0dR2",
+          "title": "Hello World: How It Works · Pony Tutorial",
+          "index": 43,
+          "dateAdded": 1504629693222000,
+          "lastModified": 1504629693232000,
+          "id": 78,
+          "charset": "UTF-8",
+          "iconuri": "https://tutorial.ponylang.org/gitbook/images/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://tutorial.ponylang.org/getting-started/how-it-works.html"
+        },
+        {
+          "guid": "UhlWyf7ZCB1Y",
+          "title": "Pony: How I learned to stop worrying and embrace an unproven technology",
+          "index": 44,
+          "dateAdded": 1504658342260000,
+          "lastModified": 1504658342262000,
+          "id": 79,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn.infoq.com/statics_s2_20170905-0254/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Sean T. Allen talks about his experiences using Pony to build Wallaroo, a high-performance, low-latency stream processing engine."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.infoq.com/presentations/pony-wallaroo"
+        },
+        {
+          "guid": "XlZQ0EBxP02v",
+          "title": "Pendaftaran Startup Review di Tech in Asia ID",
+          "index": 45,
+          "dateAdded": 1504664907092000,
+          "lastModified": 1504664907095000,
+          "id": 80,
+          "charset": "UTF-8",
+          "iconuri": "https://ssl.gstatic.com/docs/spreadsheets/forms/favicon_qp2.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://docs.google.com/forms/d/e/1FAIpQLSfne0t2vTqxg90ilhlFsQfz5MwWu3YKi60dKoAz1UZtUIH3ew/viewform"
+        },
+        {
+          "guid": "5wtHSP8dkvIi",
+          "title": "The Best Youtube Channels for Developers – Hacker Noon",
+          "index": 46,
+          "dateAdded": 1504667652454000,
+          "lastModified": 1504667652457000,
+          "id": 81,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn-images-1.medium.com/fit/c/128/128/1*76XiKOa05Yya6_CdYX8pVg.jpeg",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Primary focus: All things Javascript\nSignature: “Goooooood Monday Morning”\nRecommended videos: Worst Hello World app ever, Composition over Inheritance. MPJ from FunFunFunction, is a glorious…"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://hackernoon.com/the-best-youtube-channels-for-developers-4a08677f1ac1"
+        },
+        {
+          "guid": "XTId0dijMrRP",
+          "title": "request/request: 🏊🏾 Simplified HTTP request client.",
+          "index": 47,
+          "dateAdded": 1504694387195000,
+          "lastModified": 1504694387207000,
+          "id": 82,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "🏊🏾 Simplified HTTP request client."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/request/request"
+        },
+        {
+          "guid": "cIqtg3bXcaoK",
+          "title": "67 useful tools, libraries and resources for saving your time as a web developer",
+          "index": 48,
+          "dateAdded": 1504701764052000,
+          "lastModified": 1504701764054000,
+          "id": 83,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn-images-1.medium.com/fit/c/128/128/1*76XiKOa05Yya6_CdYX8pVg.jpeg",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "In this article I won’t be talking about big front end frameworks such as React, Angular, Vue etc… nor already popular code editors like Atom, VS Code, Sublime… I simply want to share a list of tools…"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030"
+        },
+        {
+          "guid": "vZkwfvtpUeaN",
+          "title": "Includes() vs indexOf() in JavaScript",
+          "index": 49,
+          "dateAdded": 1504702172331000,
+          "lastModified": 1504702172333000,
+          "id": 84,
+          "charset": "UTF-8",
+          "iconuri": "https://practicaldev-herokuapp-com.freetls.fastly.net/assets/android-icon-128x128-8688e356c5db3b9d64b735c99cb9f4565ae3ff6e8ed3d7618c6e3e2cf14bdcc7.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "ama content on dev.to"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://dev.to/adroitcoder/includes-vs-indexof-in-javascript"
+        },
+        {
+          "guid": "g2tdn9gXk9ca",
+          "title": "microspino/ost-crystal: Ost (crystal lang port): Redis based queues and workers.",
+          "index": 50,
+          "dateAdded": 1504702328599000,
+          "lastModified": 1504702328601000,
+          "id": 85,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "ost-crystal - Ost (crystal lang port): Redis based queues and workers."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/microspino/ost-crystal"
+        },
+        {
+          "guid": "Ah5BD77z83b9",
+          "title": "snowzurfer/rs-samples: Collection of small, well-commented Rust samples to learn Rust.",
+          "index": 51,
+          "dateAdded": 1504702338549000,
+          "lastModified": 1504702338551000,
+          "id": 86,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "rs-samples - Collection of small, well-commented Rust samples to learn Rust."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/snowzurfer/rs-samples"
+        },
+        {
+          "guid": "fsGDNbvwe1Yy",
+          "title": "include? (Array) - APIdock",
+          "index": 52,
+          "dateAdded": 1504703159032000,
+          "lastModified": 1504703159045000,
+          "id": 87,
+          "charset": "UTF-8",
+          "iconuri": "https://apidock.com/images/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://apidock.com/ruby/Array/include%3F"
+        },
+        {
+          "guid": "ipaiOYoM75BG",
+          "title": "Software release life cycle - Wikipedia",
+          "index": 53,
+          "dateAdded": 1504704490414000,
+          "lastModified": 1504704490417000,
+          "id": 88,
+          "charset": "UTF-8",
+          "iconuri": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://en.wikipedia.org/wiki/Software_release_life_cycle"
+        },
+        {
+          "guid": "mSsbCVyIa7-G",
+          "title": "javascript - Read a text file using Node.js? - Stack Overflow",
+          "index": 54,
+          "dateAdded": 1504714483901000,
+          "lastModified": 1504714483905000,
+          "id": 89,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://stackoverflow.com/questions/9168737/read-a-text-file-using-node-js"
+        },
+        {
+          "guid": "T1OhZPW_mYNc",
+          "title": "Optimizing web servers for high throughput and low latency | Dropbox Tech Blog",
+          "index": 55,
+          "dateAdded": 1504740799260000,
+          "lastModified": 1504740799263000,
+          "id": 90,
+          "charset": "UTF-8",
+          "iconuri": "https://dropboxtechblog.files.wordpress.com/2015/01/favicon.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "This is an expanded version of my talk at NginxConf 2017 on September 6, 2017. As an SRE on the Dropbox Traffic Team, I'm responsible for our Edge network: its reliability, performance, and efficiency."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/"
+        },
+        {
+          "guid": "97TWI517jNE2",
+          "title": "Smart and Dumb Components in React | Jake Trent",
+          "index": 56,
+          "dateAdded": 1504751444846000,
+          "lastModified": 1504751444849000,
+          "id": 91,
+          "charset": "UTF-8",
+          "iconuri": "https://jaketrent.com/img/favicon.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Some thoughts on how to identify and split smart and dumb components in React."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://jaketrent.com/post/smart-dumb-components-react/"
+        },
+        {
+          "guid": "EppmZidIaK80",
+          "title": "Used in production · crystal-lang/crystal Wiki",
+          "index": 57,
+          "dateAdded": 1504780019323000,
+          "lastModified": 1504780019326000,
+          "id": 92,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "crystal - The Crystal Programming Language"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/crystal-lang/crystal/wiki/Used-in-production#cyber-security"
+        },
+        {
+          "guid": "V15_DD6mV8Xs",
+          "title": "Scratch - Imagine, Program, Share",
+          "index": 58,
+          "dateAdded": 1504797589426000,
+          "lastModified": 1504797589429000,
+          "id": 93,
+          "charset": "windows-1252",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://scratch.mit.edu/"
+        },
+        {
+          "guid": "_fOqXwW1x7YD",
+          "title": "Free Learning - Free Technology eBooks | PACKT Books",
+          "index": 59,
+          "dateAdded": 1504829249882000,
+          "lastModified": 1504829249884000,
+          "id": 94,
+          "charset": "UTF-8",
+          "iconuri": "https://d1ldz4te4covpm.cloudfront.net/misc/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "A new free programming tutorial book every day! Develop new tech skills and knowledge with Packt Publishing’s daily free learning giveaway."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.packtpub.com/packt/offers/free-learning"
+        },
+        {
+          "guid": "gQBIyFn_aG39",
+          "title": "Pseudo BNF Syntax of Ruby",
+          "index": 60,
+          "dateAdded": 1504830099765000,
+          "lastModified": 1504830099767000,
+          "id": 95,
+          "charset": "ISO-8859-7",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.softlab.ntua.gr/facilities/documentation/unix/ruby-man-1.4/yacc.html"
+        },
+        {
+          "guid": "RPRtNf_0N5YH",
+          "title": "ASCII chart",
+          "index": 61,
+          "dateAdded": 1504921221066000,
+          "lastModified": 1504921221068000,
+          "id": 96,
+          "charset": "windows-1252",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.bluesock.org/~willg/dev/ascii.html"
+        },
+        {
+          "guid": "ZUa--0HpAx38",
+          "title": "Thingiverse - Digital Designs for Physical Objects",
+          "index": 62,
+          "dateAdded": 1504954699881000,
+          "lastModified": 1504954699899000,
+          "id": 97,
+          "charset": "UTF-8",
+          "iconuri": "https://www.thingiverse.com/img/favicons/favicon-32x32.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Thingiverse is a universe of things. Download our files and build them with your lasercutter, 3D printer, or CNC."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.thingiverse.com/?fref=gc&dti=928410417191779"
+        },
+        {
+          "guid": "fBNlxeI69SwJ",
+          "title": "Quadruped Changeable size using Servo 9g by squadzone - Thingiverse",
+          "index": 63,
+          "dateAdded": 1505088188971000,
+          "lastModified": 1505088188983000,
+          "id": 98,
+          "charset": "UTF-8",
+          "iconuri": "https://www.thingiverse.com/img/favicons/favicon-32x32.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "I like quadruped robot design by Jason Workshop (https://www.thingiverse.com/thing:2311678)\nbut i need that can changeable like Size, more Servo'"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.thingiverse.com/thing:2523270"
+        },
+        {
+          "guid": "E7Cvm1rH2iHz",
+          "title": "hyper.rs",
+          "index": 64,
+          "dateAdded": 1505119504530000,
+          "lastModified": 1505119504532000,
+          "id": 99,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://hyper.rs/"
+        },
+        {
+          "guid": "CGBJPweKMjuP",
+          "title": "#ponylang on 2017-09-09 — irc logs at whitequark.org",
+          "index": 65,
+          "dateAdded": 1505119639222000,
+          "lastModified": 1505119639223000,
+          "id": 100,
+          "charset": "UTF-8",
+          "iconuri": "https://irclog.whitequark.org/favicon.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "channel #ponylang IRC chat logs"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://irclog.whitequark.org/ponylang/2017-09-09"
+        },
+        {
+          "guid": "merzW6s8jol9",
+          "title": "Rust Playground",
+          "index": 66,
+          "dateAdded": 1505182955956000,
+          "lastModified": 1505182955959000,
+          "id": 101,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://play.rust-lang.org/?gist=b5a3be0dc0127e22360726542a66b193&version=stable"
+        },
+        {
+          "guid": "qIH1RvBqUrZI",
+          "title": "Cellular Automata Method for Generating Random Cave-Like Levels - RogueBasin",
+          "index": 67,
+          "dateAdded": 1505221833733000,
+          "lastModified": 1505221833735000,
+          "id": 102,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.roguebasin.com/index.php?title=Cellular_Automata_Method_for_Generating_Random_Cave-Like_Levels"
+        },
+        {
+          "guid": "8tkTXSahQLCN",
+          "title": "Language basics II | Dailydrip | [Crystal 001.3]",
+          "index": 68,
+          "dateAdded": 1505256975080000,
+          "lastModified": 1505256975093000,
+          "id": 103,
+          "charset": "UTF-8",
+          "iconuri": "https://www.dailydrip.com/favicon-16x16.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Learn about classes, modules, generics, and macros."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.dailydrip.com/topics/crystal/drips/language-basics-ii"
+        },
+        {
+          "guid": "a0w1R-EZZfYG",
+          "title": "ML4WP: Publication Details and Full Text",
+          "index": 69,
+          "dateAdded": 1505264038408000,
+          "lastModified": 1505264038410000,
+          "id": 104,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html"
+        },
+        {
+          "guid": "tdJmkh9edKJE",
+          "title": "Guide to EasyAutocomplete - jQuery autocomplete plugin",
+          "index": 70,
+          "dateAdded": 1505272613362000,
+          "lastModified": 1505272613366000,
+          "id": 105,
+          "charset": "UTF-8",
+          "iconuri": "http://easyautocomplete.com/images/favicon.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Guide for EasyAutocomplete. Read the tutorial and learn how to one of the best jquery autocomplete plugin."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://easyautocomplete.com/guide"
+        },
+        {
+          "guid": "tJnMs17tch9X",
+          "title": "primaryobjects/AI-Programmer: Using artificial intelligence and genetic algorithms to automatically write programs. Tutorial: http://www.primaryobjects.com/cms/article149",
+          "index": 71,
+          "dateAdded": 1505305014263000,
+          "lastModified": 1505305014267000,
+          "id": 107,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "AI-Programmer - Using artificial intelligence and genetic algorithms to automatically write programs. Tutorial: http://www.primaryobjects.com/cms/article149"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/primaryobjects/AI-Programmer"
+        },
+        {
+          "guid": "tKnGyFqpB13r",
+          "title": "Statistical symbols & probability symbols (μ,σ,...)",
+          "index": 72,
+          "dateAdded": 1505309011276000,
+          "lastModified": 1505309011278000,
+          "id": 108,
+          "charset": "UTF-8",
+          "iconuri": "http://www.rapidtables.com/lib/favicon/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Probability and statistics symbols table and definitions - expectation, variance, standard deviation, distribution, probability function, conditional probability, covariance, correlation"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.rapidtables.com/math/symbols/Statistical_Symbols.htm"
+        },
+        {
+          "guid": "544yhsSP98t-",
+          "title": "Mathematical symbols list (+,-,x,/,=,<,>,...)",
+          "index": 73,
+          "dateAdded": 1505309014641000,
+          "lastModified": 1505309014642000,
+          "id": 109,
+          "charset": "UTF-8",
+          "iconuri": "http://www.rapidtables.com/lib/favicon/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "List of all math symbols and meaning - equality, inequality, parentheses, plus, minus, times, division, power, square root, percent, per mille,..."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm"
+        },
+        {
+          "guid": "hvNJymrwnQhr",
+          "title": "About M101P",
+          "index": 74,
+          "dateAdded": 1505319036618000,
+          "lastModified": 1505319036621000,
+          "id": 110,
+          "charset": "UTF-8",
+          "iconuri": "https://university.mongodb.com/static/images/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Free Online Classes on MongoDB from MongoDB, Inc."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://university.mongodb.com/courses/M101P/about?utm_campaign=T5_V3_DEV_AM_E4_M101_A&utm_medium=email&utm_source=Eloqua"
+        },
+        {
+          "guid": "njNPxAYjnaEO",
+          "title": "mlpack: a scalable c++ machine learning library",
+          "index": 75,
+          "dateAdded": 1505371042078000,
+          "lastModified": 1505371042082000,
+          "id": 111,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "mlpack: a scalable c++ machine learning library"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.mlpack.org/"
+        },
+        {
+          "guid": "IzfIc0GpkYac",
+          "title": "MIPI I3C",
+          "index": 76,
+          "dateAdded": 1505444251894000,
+          "lastModified": 1505444251914000,
+          "id": 112,
+          "charset": "UTF-8",
+          "iconuri": "https://mipi.org/sites/default/files/mipi_favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "MIPI I3CSM is a bus interface for connecting sensors to an application processor. It is a core sensor integration technology that can combine multiple sensors from different vendors in a device to streamline integration and improve cost efficiencies. It gives developers unprecedented opportunity to craft innovative designs for any mobile product, from smartphones, to wearables, to safety systems in automobiles."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://mipi.org/specifications/i3c-sensor-specification"
+        },
+        {
+          "guid": "s2mo0NYM-J6u",
+          "title": "nyan-loader-1e8a60aa470ba72bc1ade31dcc2e150f.gif (GIF Image, 150 × 60 pixels)",
+          "index": 77,
+          "dateAdded": 1505445194681000,
+          "lastModified": 1505445194685000,
+          "id": 113,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://a.kym-cdn.com/assets/nyan-loader-1e8a60aa470ba72bc1ade31dcc2e150f.gif"
+        },
+        {
+          "guid": "_0Vh1FPXtpNX",
+          "title": "https://japaric.github.io/discovery/",
+          "index": 78,
+          "dateAdded": 1505518527495000,
+          "lastModified": 1505518527508000,
+          "id": 115,
+          "charset": "UTF-8",
+          "iconuri": "https://japaric.github.io/discovery/favicon.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://japaric.github.io/discovery/"
+        },
+        {
+          "guid": "dImO7JyiIYu6",
+          "title": "crystal/base.cr at 3c6c75e68f326bb91be35f71ae30672fd454776e · crystal-lang/crystal",
+          "index": 79,
+          "dateAdded": 1505617256833000,
+          "lastModified": 1505617257106000,
+          "id": 116,
+          "charset": "UTF-8",
+          "iconuri": "https://assets-cdn.github.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "crystal - The Crystal Programming Language"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/crystal-lang/crystal/blob/3c6c75e68f326bb91be35f71ae30672fd454776e/src/digest/base.cr#L3"
+        },
+        {
+          "guid": "LFRqr6gcpdLl",
+          "title": "Student Solutions Manual Elementary Linear Algebra with Applications 9th Edition - StuDocu",
+          "index": 80,
+          "dateAdded": 1505625515215000,
+          "lastModified": 1505625515228000,
+          "id": 117,
+          "charset": "UTF-8",
+          "iconuri": "https://d20ohkaloyme4g.cloudfront.net/img/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "student solutions manual to accompany elementary linear algebra with applications ninth edition howard anton chris rorresdrexel university prepared bychristine"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.studocu.com/en/document/technische-universiteit-eindhoven/lineaire-algebra/book-solutions/student-solutions-manual-elementary-linear-algebra-with-applications-9th-edition/19559/view?auth=0&new_title=0&auth_prem=0&shared=1&has_flashcards=1"
+        },
+        {
+          "guid": "PRFgjodNgCTT",
+          "title": "Pony Language Designer Sylvan Clebsch on Pony’s Design, Garbage Collection, and Formal Verification",
+          "index": 81,
+          "dateAdded": 1505695039671000,
+          "lastModified": 1505695039701000,
+          "id": 118,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn.infoq.com/statics_s2_20170913-0458/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "In this podcast Charles Humble talks to Sylvan Clebsch, who is the designer of the actor-model language Pony programming and now works at Microsoft Research in Cambridge in the Programming Language Principles group.  They talk about the inspirations behind Pony, how the garbage collector avoids stop-the-world pauses, the queuing systems, work scheduler, and formal verification.  \n"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.infoq.com/podcasts/sylvan-clebsch-pony-formal-verification"
+        },
+        {
+          "guid": "meNb5ye1mIEW",
+          "title": "show_notes::cysk::rayon - Rust",
+          "index": 82,
+          "dateAdded": 1505780560243000,
+          "lastModified": 1505780560247000,
+          "id": 119,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "API documentation for the Rust `rayon` mod in crate `show_notes`."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.newrustacean.com/show_notes/cysk/rayon/"
+        },
+        {
+          "guid": "NpcB762qE1YN",
+          "title": "JavaScript Promises: an Introduction  |  Web  |  Google Developers",
+          "index": 83,
+          "dateAdded": 1505873333891000,
+          "lastModified": 1505873333895000,
+          "id": 120,
+          "charset": "UTF-8",
+          "iconuri": "https://developers.google.com/_static/b2910b9266/images/favicon.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "&quot;Promises simplify deferred and asynchronous computations. A promise represents an operation that hasn't completed yet.&quot;"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://developers.google.com/web/fundamentals/getting-started/primers/promises"
+        },
+        {
+          "guid": "2JLhDs4X52gB",
+          "title": "Async functions - making promises friendly  |  Web  |  Google Developers",
+          "index": 84,
+          "dateAdded": 1505873337407000,
+          "lastModified": 1505873337408000,
+          "id": 121,
+          "charset": "UTF-8",
+          "iconuri": "https://developers.google.com/_static/b2910b9266/images/favicon.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Async functions allow you to write promise-based code as if it were synchronous"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://developers.google.com/web/fundamentals/getting-started/primers/async-functions"
+        },
+        {
+          "guid": "hnc2_lyAMQ0C",
+          "title": "python - ImportError: No module named requests - Stack Overflow",
+          "index": 85,
+          "dateAdded": 1505920246147000,
+          "lastModified": 1505920246152000,
+          "id": 122,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://stackoverflow.com/questions/17309288/importerror-no-module-named-requests"
+        },
+        {
+          "guid": "kYLl1fRRoWgY",
+          "title": "Jual Quadruped 4 DOF Servo 9g Dengan Sensor dan Wifi - Indo3Dprinter | Tokopedia",
+          "index": 86,
+          "dateAdded": 1505954351753000,
+          "lastModified": 1505954351759000,
+          "id": 123,
+          "charset": "UTF-8",
+          "iconuri": "https://ecs7.tokopedia.net/img/favicon.ico?v=20140313",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Jual Quadruped 4 DOF Servo 9g Dengan Sensor dan Wifi, Robot dengan harga Rp 870.000 dari toko online Indo3Dprinter, Pancur Batu. Cari produk  lainnya di Tokopedia. Jual beli online aman dan nyaman hanya di Tokopedia."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://www.tokopedia.com/indo3dprinter/quadruped-4-dof-servo-9g-dengan-sensor-dan-wifi?utm_source=Copy&utm_campaign=Product&utm_medium=Android+Share+Button"
+        },
+        {
+          "guid": "f0Sc2LLxR7Yz",
+          "title": "10 Tech Movies to Get You Coding Again",
+          "index": 87,
+          "dateAdded": 1505959896897000,
+          "lastModified": 1505959896901000,
+          "id": 124,
+          "charset": "UTF-8",
+          "iconuri": "https://practicaldev-herokuapp-com.freetls.fastly.net/assets/android-icon-128x128-8688e356c5db3b9d64b735c99cb9f4565ae3ff6e8ed3d7618c6e3e2cf14bdcc7.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "A list of the 10 best tech movies out there to get you interested in and passionate about technology, computers, programming and hacking."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again"
+        },
+        {
+          "guid": "pukHc32AKAjm",
+          "title": "How can I parse a YAML file in Python - Stack Overflow",
+          "index": 88,
+          "dateAdded": 1505963232725000,
+          "lastModified": 1505963232738000,
+          "id": 125,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://stackoverflow.com/questions/1773805/how-can-i-parse-a-yaml-file-in-python"
+        },
+        {
+          "guid": "ch_hxR_1wnal",
+          "title": "Quickstart — Requests 2.18.4 documentation",
+          "index": 89,
+          "dateAdded": 1505965350523000,
+          "lastModified": 1505965350527000,
+          "id": 126,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://docs.python-requests.org/en/latest/user/quickstart/#make-a-request"
+        },
+        {
+          "guid": "JmnCmMHzvyEb",
+          "title": "Boost Getting Started on Unix Variants - 1.61.0",
+          "index": 90,
+          "dateAdded": 1505991083499000,
+          "lastModified": 1505991083501000,
+          "id": 127,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Getting Started with Boost on Unix Variants (including Linux and MacOS)"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.boost.org/doc/libs/1_61_0/more/getting_started/unix-variants.html"
+        },
+        {
+          "guid": "YUXycCpvDzMU",
+          "title": "Piece Of Py(thon)",
+          "index": 91,
+          "dateAdded": 1505992455286000,
+          "lastModified": 1505992455289000,
+          "id": 128,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://pieceofpy.com/2010/02/26/boost-python-threads-and-releasing-the-gil/"
+        },
+        {
+          "guid": "CWHuUqS_Ai3S",
+          "title": "wwitzel3 / code / source / nogil — Bitbucket",
+          "index": 92,
+          "dateAdded": 1505992519660000,
+          "lastModified": 1505992519670000,
+          "id": 129,
+          "charset": "UTF-8",
+          "iconuri": "https://d301sr5gafysq2.cloudfront.net/4166677bc668/img/logos/bitbucket/favicon_2017.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://bitbucket.org/wwitzel3/code/src/tip/nogil/"
+        },
+        {
+          "guid": "o8IdWZmwPi5B",
+          "title": "Simplified Wrapper and Interface Generator",
+          "index": 93,
+          "dateAdded": 1505995694870000,
+          "lastModified": 1505995694876000,
+          "id": 130,
+          "charset": "windows-1252",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.swig.org/"
+        },
+        {
+          "guid": "HeUW_xWFli2V",
+          "title": "The CImg Library - C++ Template Image Processing Toolkit",
+          "index": 94,
+          "dateAdded": 1506034845052000,
+          "lastModified": 1506034845055000,
+          "id": 131,
+          "charset": "windows-1252",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://cimg.eu/reference/modules.html"
+        },
+        {
+          "guid": "cSRnX2voxZL6",
+          "title": "bash:tip_colors_and_formatting - FLOZz' MISC",
+          "index": 95,
+          "dateAdded": 1506053206745000,
+          "lastModified": 1506053206747000,
+          "id": 132,
+          "charset": "UTF-8",
+          "iconuri": "https://misc.flogisoft.com/favicon.png",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://misc.flogisoft.com/bash/tip_colors_and_formatting"
+        },
+        {
+          "guid": "csMdHe8M_696",
+          "title": "Colorizing Scripts",
+          "index": 96,
+          "dateAdded": 1506054880237000,
+          "lastModified": 1506054880239000,
+          "id": 133,
+          "charset": "windows-1252",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.tldp.org/LDP/abs/html/colorizing.html"
+        },
+        {
+          "guid": "wm_AqEqWnKcH",
+          "title": "(99+) mongodb-user - Google Grup",
+          "index": 97,
+          "dateAdded": 1506060216153000,
+          "lastModified": 1506060216156000,
+          "id": 134,
+          "charset": "UTF-8",
+          "iconuri": "https://groups.google.com/forum/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "Google Grup memungkinkan Anda untuk membuat dan berpartisipasi dalam forum online serta grup berbasis email dengan pengalaman yang kaya untuk percakapan komunitas."
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://groups.google.com/forum/#!forum/mongodb-user"
+        },
+        {
+          "guid": "Il9YOlUEcJ7z",
+          "title": "linux - Automatically answer 'Yes' when using apt-get install - Super User",
+          "index": 98,
+          "dateAdded": 1506127395303000,
+          "lastModified": 1506127395309000,
+          "id": 135,
+          "charset": "UTF-8",
+          "iconuri": "https://cdn.sstatic.net/Sites/superuser/img/favicon.ico?v=29b26120d2c5",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://superuser.com/questions/164553/automatically-answer-yes-when-using-apt-get-install"
+        },
+        {
+          "guid": "pp_VmqCzBfoI",
+          "title": "My new Victor-Hugo site",
+          "index": 99,
+          "dateAdded": 1506160856537000,
+          "lastModified": 1506160856542000,
+          "id": 136,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://pony.netlify.com/"
+        },
+        {
+          "guid": "vJpc8mDy85wJ",
+          "title": "BeagleBoard.org - bone",
+          "index": 100,
+          "dateAdded": 1506323919868000,
+          "lastModified": 1506323919894000,
+          "id": 137,
+          "charset": "windows-1252",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://beagleboard.org/bone"
+        }
+      ]
+    },
+    {
+      "guid": "toolbar_____",
+      "title": "Bookmarks Toolbar",
+      "index": 1,
+      "dateAdded": 1503627549669000,
+      "lastModified": 1503627550484000,
+      "id": 3,
+      "annos": [
+        {
+          "name": "bookmarkProperties/description",
+          "flags": 0,
+          "expires": 4,
+          "value": "Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar"
+        }
+      ],
+      "type": "text/x-moz-place-container",
+      "root": "toolbarFolder",
+      "children": [
+        {
+          "guid": "SbM25y1LenPj",
+          "title": "Most Visited",
+          "index": 0,
+          "dateAdded": 1503627549984000,
+          "lastModified": 1503627550176000,
+          "id": 13,
+          "annos": [
+            {
+              "name": "Places/SmartBookmark",
+              "flags": 0,
+              "expires": 4,
+              "value": "MostVisited"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "place:sort=8&maxResults=10"
+        },
+        {
+          "guid": "_Qogs8OGnCUl",
+          "title": "Getting Started",
+          "index": 1,
+          "dateAdded": 1503627549963000,
+          "lastModified": 1503627549966000,
+          "id": 7,
+          "iconuri": "http://www.mozilla.org/2005/made-up-favicon/0-1503627549964",
+          "type": "text/x-moz-place",
+          "uri": "https://www.mozilla.org/en-US/firefox/central/"
+        },
+        {
+          "guid": "rCdkFbVRHBSa",
+          "title": "A Quick and Easy Guide to tmux",
+          "index": 2,
+          "dateAdded": 1503627550484000,
+          "lastModified": 1503627550484000,
+          "id": 16,
+          "iconuri": "http://www.hamvocke.com/assets/img/favicon.png",
+          "type": "text/x-moz-place",
+          "uri": "http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/"
+        },
+        {
+          "guid": "M3rH6A4u9x9C",
+          "title": "Apple",
+          "index": 3,
+          "dateAdded": 1503627550484000,
+          "lastModified": 1503627550484000,
+          "id": 17,
+          "type": "text/x-moz-place",
+          "uri": "https://www.apple.com/"
+        },
+        {
+          "guid": "RB4c0Z3gd58b",
+          "title": "iCloud",
+          "index": 4,
+          "dateAdded": 1503627550484000,
+          "lastModified": 1503627550484000,
+          "id": 18,
+          "type": "text/x-moz-place",
+          "uri": "https://www.icloud.com/"
+        },
+        {
+          "guid": "B8aQ-PwLSPP-",
+          "title": "Yahoo",
+          "index": 5,
+          "dateAdded": 1503627550484000,
+          "lastModified": 1503627550484000,
+          "id": 19,
+          "type": "text/x-moz-place",
+          "uri": "https://www.yahoo.com/"
+        },
+        {
+          "guid": "1gJ4ytmcddoK",
+          "title": "Bing",
+          "index": 6,
+          "dateAdded": 1503627550484000,
+          "lastModified": 1503627550484000,
+          "id": 20,
+          "type": "text/x-moz-place",
+          "uri": "https://www.bing.com/"
+        },
+        {
+          "guid": "AbVIucPOvjT1",
+          "title": "Google",
+          "index": 7,
+          "dateAdded": 1503627550484000,
+          "lastModified": 1503627550484000,
+          "id": 21,
+          "type": "text/x-moz-place",
+          "uri": "https://www.google.com/?client=safari&channel=mac_bm"
+        },
+        {
+          "guid": "n5BhK0Bhw_AI",
+          "title": "Wikipedia",
+          "index": 8,
+          "dateAdded": 1503627550484000,
+          "lastModified": 1503627550484000,
+          "id": 22,
+          "type": "text/x-moz-place",
+          "uri": "https://www.wikipedia.org/"
+        },
+        {
+          "guid": "vV2pO7GR92kC",
+          "title": "Facebook",
+          "index": 9,
+          "dateAdded": 1503627550484000,
+          "lastModified": 1503627550484000,
+          "id": 23,
+          "iconuri": "https://www.facebook.com/rsrc.php/yl/r/H3nktOa7ZMg.ico",
+          "type": "text/x-moz-place",
+          "uri": "https://www.facebook.com/"
+        },
+        {
+          "guid": "d_GcvHaX_Wjw",
+          "title": "Twitter",
+          "index": 10,
+          "dateAdded": 1503627550484000,
+          "lastModified": 1503627550484000,
+          "id": 24,
+          "iconuri": "https://abs.twimg.com/favicons/favicon.ico",
+          "type": "text/x-moz-place",
+          "uri": "https://twitter.com/"
+        },
+        {
+          "guid": "GTXQOt0qQSU-",
+          "title": "LinkedIn",
+          "index": 11,
+          "dateAdded": 1503627550484000,
+          "lastModified": 1503627550484000,
+          "id": 25,
+          "iconuri": "https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+          "type": "text/x-moz-place",
+          "uri": "https://www.linkedin.com/"
+        },
+        {
+          "guid": "fPrKVsTXZ9wf",
+          "title": "The Weather Channel",
+          "index": 12,
+          "dateAdded": 1503627550484000,
+          "lastModified": 1503627550484000,
+          "id": 26,
+          "type": "text/x-moz-place",
+          "uri": "https://www.weather.com/"
+        },
+        {
+          "guid": "LXfj5VqtaR15",
+          "title": "Yelp",
+          "index": 13,
+          "dateAdded": 1503627550484000,
+          "lastModified": 1503627550484000,
+          "id": 27,
+          "type": "text/x-moz-place",
+          "uri": "http://www.yelp.com/"
+        },
+        {
+          "guid": "iDm-trfTI_zq",
+          "title": "TripAdvisor",
+          "index": 14,
+          "dateAdded": 1503627550484000,
+          "lastModified": 1503627550484000,
+          "id": 28,
+          "type": "text/x-moz-place",
+          "uri": "http://www.tripadvisor.com/"
+        }
+      ]
+    },
+    {
+      "guid": "unfiled_____",
+      "title": "Other Bookmarks",
+      "index": 3,
+      "dateAdded": 1503627549669000,
+      "lastModified": 1505457726149000,
+      "id": 5,
+      "type": "text/x-moz-place-container",
+      "root": "unfiledBookmarksFolder",
+      "children": [
+        {
+          "guid": "wTUTtmtNbRQB",
+          "title": "Kompilator - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+          "index": 0,
+          "dateAdded": 1504140791886000,
+          "lastModified": 1504140791888000,
+          "id": 57,
+          "charset": "UTF-8",
+          "iconuri": "https://id.wikipedia.org/static/favicon/wikipedia.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://id.wikipedia.org/wiki/Kompilator"
+        },
+        {
+          "guid": "g1oy1RWxbBiq",
+          "title": "$orderby — MongoDB Manual 3.4",
+          "index": 1,
+          "dateAdded": 1505299226563000,
+          "lastModified": 1505299226565000,
+          "id": 106,
+          "charset": "UTF-8",
+          "iconuri": "https://media.mongodb.org/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": ""
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://docs.mongodb.com/manual/reference/operator/meta/orderby/"
+        },
+        {
+          "guid": "ZTS9MIQTDxT4",
+          "title": "Wallpaper Dinding: Dekorasi Latar Belakang Dinding Pola Bata 3D Di TV Ruang Tamu Kamar Tidur | Shopee Indonesia",
+          "index": 2,
+          "dateAdded": 1505457726149000,
+          "lastModified": 1505457726153000,
+          "id": 114,
+          "charset": "UTF-8",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "flags": 0,
+              "expires": 4,
+              "value": "4.5 Penjual Pilihan Shopee✔️. Description:\n100% Brand new and high quality\nColor: As shown\nDimensions:70×77cm（27.5×30.3 inch）(W*H)\nMaterial: PE\nColor: White, Green, Red, Yellow, Coffee, Gray&Black, Light Blue, Pink, Light Purple\nScope: bedroom background TV background, background sofa, living room background, clothing background ...\n\nFeatures:\n1: Three-dimensional decorative soft foam, anti-collision for children, care for your family safe.\n2: safety and environmental protection, non-toxic odor-free, suitable for family safe home space.\n3: lifelike, natural brick pattern effect, simple and modern style.\n4: Free DIY, easy self-adhesive design, installation, casual collage, arbitrarily cut.\n5: Product thickness is 10mm, better noise reduction effect.\n\nNote:\nPlease allow 1-2cm differences due to manual measurement.\nDue to the difference between different monitors, the picture may not reflect the actual color of the item. We guarantee the style is the same as shown in the pictures. Thank you and happy purchase!\n\nPackage: 1 X 3D Brick Wallpaper.\n\n#Ikea\n#Cheap\n#ReadyStock\n#Home Decor\n#Wall Art\n#Wall Sticker\n#Wall Decor. Garansi Shopee | Gratis Ongkir | 100% Bebas Biaya"
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://shopee.co.id/Wallpaper-Dinding-Dekorasi-Latar-Belakang-Dinding-Pola-Bata-3D-Di-TV-Ruang-Tamu-Kamar-Tidur-i.10386638.248014915"
+        }
+      ]
+    },
+    {
+      "guid": "mobile______",
+      "title": "mobile",
+      "index": 4,
+      "dateAdded": 1503627549670000,
+      "lastModified": 1503627549670000,
+      "id": 6,
+      "annos": [
+        {
+          "name": "mobile/bookmarksRoot",
+          "flags": 0,
+          "expires": 4,
+          "value": 1
+        }
+      ],
+      "type": "text/x-moz-place-container",
+      "root": "mobileFolder"
+    }
+  ]
+}
